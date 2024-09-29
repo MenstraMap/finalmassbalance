@@ -47,8 +47,8 @@ h1 {
 }
 
 .box5 {
-  width: 500px;
-  height: 300px;
+  width: 300px;
+  height: 200px;
   background: #E3F4E5;
   margin: 30px;
   border: 5px solid #dd99ee;
@@ -90,7 +90,8 @@ nav {
 .block {
   font-family:'sans serif';
   border: 2px;
-  color: #e194f7;
+  background-color: #e194f7;
+  color: #E3F4E5;
   padding: 20px;
   text-align: center;
   text-decoration: none;
