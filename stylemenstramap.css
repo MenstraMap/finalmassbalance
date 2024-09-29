@@ -27,7 +27,6 @@ h1 {
 .box13 {
   width: 500px;
   height: 300px;
-  background: #E3F4E5;
   margin: 30px;
   border: 3px solid #e194f7;
   float: left;
@@ -90,6 +89,7 @@ nav {
 .block {
   font-family:'sans serif';
   border: 2px;
+  background-color: #e194f7;
   color: white;
   padding: 20px;
   text-align: center;
