@@ -86,3 +86,16 @@ nav {
 .nav-links a:hover {
   color: #d588ea;
 }
+
+.block {
+  font-family:'sans serif';
+  background-color: #e194f7;
+  border: 2px;
+  color: #e194f7;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
