@@ -28,7 +28,7 @@ h1 {
   width: 500px;
   height: 300px;
   margin: 30px;
-  background-color: #E3F4E5;
+  background: #E3F4E5;
   border: 3px solid #e194f7;
   float: left;
   text-align: center;
@@ -38,7 +38,7 @@ h1 {
 .box4 {
   width: 500px;
   height: 300px;
-  background-color: #E3F4E5;
+  background: #E3F4E5;
   margin: 30px;
   border: 5px solid #dd99ee;
   float: left;
@@ -49,7 +49,7 @@ h1 {
 .box5 {
   width: 300px;
   height: 200px;
-  background-color: #E3F4E5;
+  background: black;
   margin: 30px;
   border: 5px solid #dd99ee;
   float: left;
