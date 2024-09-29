@@ -89,7 +89,7 @@ nav {
 .block {
   font-family:'sans serif';
   border: 2px;
-  background-color: black;
+  background-color: #E3F4E5;
   color: white;
   padding: 20px;
   text-align: center;
@@ -97,4 +97,8 @@ nav {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
+}
+
+.button {
+  background-color: #e194f7
 }
