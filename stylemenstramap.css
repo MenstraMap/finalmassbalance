@@ -47,8 +47,8 @@ h1 {
 }
 
 .box5 {
-  width: 300px;
-  height: 200px;
+  width: 500px;
+  height: 300px;
   margin: 30px;
   border: 5px solid #dd99ee;
   float: left;
@@ -91,7 +91,7 @@ nav {
   border: 2px;
   background-color: #E3F4E5;
   color: white;
-  padding: 20px;
+  padding: 50px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
