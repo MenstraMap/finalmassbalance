@@ -86,6 +86,10 @@ nav {
   color: #f8f1e2;
 }
 
+.block:hover {
+  cursor: pointer;
+}
+
 .block {
   font-size: 20px;
   border: 2px;
