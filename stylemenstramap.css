@@ -97,6 +97,10 @@ nav {
   cursor: hover;
 }
 
+.nav-links button:hover {
+  cursor: pointer;
+}
+
 .button {
   background-color: #7a4c51
 }
