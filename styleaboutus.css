@@ -1,7 +1,6 @@
 body {
-    font-family: 'Inter', 'sans serif';
-    color: #151316;
-    background: #e2bdec;
+    font-family: 'Inter', 'sans serif';;
+    background: #f5d6c3;
     font-size: 30px;
   }
 
@@ -14,7 +13,7 @@ body {
 
   /* Navigation Bar */
 nav {
-    background-color: #c4f3d8;
+    background-color: #854747;
     padding: 15px;
     overflow: hidden;
   }
@@ -34,7 +33,7 @@ nav {
   .nav-links a {
     text-decoration: none;
     font-size: 20px;
-    color: #a371e1;
+    color: #854747;
     font-weight: bold;
   }
   
