@@ -1,13 +1,13 @@
 body {
   font-family: 'Inter', 'sans serif';
-  color: #e194f7;
-  background: #e194f7;
+  color: #7a4c51;
+  background: #7a4c51;
   background-image: url('./images/productnear.jpg');
   font-size: 30px;
 }
 
 h1 {
-  color: #e194f7;
+  color: #7a4c51;
   font-size: 40px;
   text-align: left;
   margin: 30px;
@@ -16,7 +16,7 @@ h1 {
 #reading {
   font-size: 30px;
   font-weight: bold;
-  color: #e194f7;
+  color: #7a4c51;
 }
 
 .stock-container {
@@ -28,8 +28,8 @@ h1 {
   width: 500px;
   height: 300px;
   margin: 30px;
-  background: #E3F4E5;
-  border: 3px solid #e194f7;
+  background: #f5d6c3;
+  border: 3px solid #7a4c51;
   float: left;
   text-align: center;
   position: relative;
@@ -38,9 +38,9 @@ h1 {
 .box4 {
   width: 500px;
   height: 300px;
-  background: #E3F4E5;
+  background: #f5d6c3;
   margin: 30px;
-  border: 5px solid #dd99ee;
+  border: 5px solid #854747;
   float: left;
   text-align: center;
   position: relative;
@@ -50,7 +50,7 @@ h1 {
   width: 500px;
   height: 300px;
   margin: 30px;
-  border: 5px solid #dd99ee;
+  border: 5px solid #854747;
   float: left;
   text-align: center;
   position: relative;
@@ -58,7 +58,7 @@ h1 {
 
 /* Navigation Bar */
 nav {
-  background-color: #E3F4E5;
+  background-color: #f5d6c3;
   padding: 15px;
   overflow: hidden;
 }
@@ -78,18 +78,18 @@ nav {
 .nav-links a {
   text-decoration: none;
   font-size: 20px;
-  color: #e194f7;
+  color: #7a4c51;
   font-weight: bold;
 }
 
 .nav-links a:hover {
-  color: #d588ea;
+  color: #f8f1e2;
 }
 
 .block {
   font-family:'sans serif';
   border: 2px;
-  background-color: #E3F4E5;
+  background-color: #f5d6c3;
   color: white;
   padding: 50px;
   text-align: center;
@@ -100,5 +100,5 @@ nav {
 }
 
 .button {
-  background-color: #e194f7
+  background-color: #7a4c51
 }
