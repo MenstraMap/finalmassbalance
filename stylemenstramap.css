@@ -38,7 +38,7 @@ h1 {
   height: 300px;
   background: #f5d6c3;
   margin: 30px;
-  border: 5px solid #854747;
+  border: 3px solid #854747;
   float: left;
   text-align: center;
   position: relative;
@@ -49,7 +49,7 @@ h1 {
   width: 500px;
   height: 300px;
   margin: 30px;
-  border: 5px solid #854747;
+  border: 3px solid #854747;
   float: left;
   text-align: center;
   position: relative;
