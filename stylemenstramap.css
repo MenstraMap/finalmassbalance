@@ -75,7 +75,7 @@ nav {
 .nav-links a {
   text-decoration: none;
   font-size: 20px;
-  color: #7a4c51;
+  color: #f5d6c3;
   font-weight: bold;
 }
 
@@ -86,7 +86,7 @@ nav {
 .block {
   font-family:'sans serif';
   border: 2px;
-  background-color: #f5d6c3;
+  background-color: #7a4c51;
   color: white;
   padding: 50px;
   text-align: center;
@@ -97,7 +97,7 @@ nav {
   cursor: hover;
 }
 
-.nav-linksn button:hover {
+.nav-linksn block:hover {
   cursor: pointer;
 }
 
