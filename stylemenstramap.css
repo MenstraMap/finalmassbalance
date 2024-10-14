@@ -1,6 +1,7 @@
 body {
   font-family: 'Inter', 'sans serif';
   background: #f5d6c3;
+  font-size: 30px;
 }
 
 h1 {
@@ -25,7 +26,7 @@ h1 {
   width: 500px;
   height: 300px;
   margin: 30px;
-  border: 3px solid #f5d6c3;
+  border: 3px solid #854747;
   float: left;
   text-align: center;
   position: relative;
@@ -54,7 +55,7 @@ h1 {
 
 /* Navigation Bar */
 nav {
-  background-color: #f5d6c3;
+  background-color: #7a4c51;
   padding: 15px;
   overflow: hidden;
 }
@@ -101,5 +102,5 @@ nav {
 }
 
 .button {
-  background-color: #7a4c51
+  background-color: #7a4c51;
 }
